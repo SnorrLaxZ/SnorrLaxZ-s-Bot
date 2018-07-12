@@ -1,2 +1,0 @@
-# SnorrLaxZ-s-Bot
-Heroku(?)
